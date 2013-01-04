@@ -234,12 +234,9 @@ R3F_LOG_CFG_transporteurs = [
 	["BMP2_Base", 7],
 	["BMP3", 7],
 	["ZSU_Base", 5],
-
 	["Ship", 10],
-
 	["Fort_Crate_wood", 20],
 	["Misc_cargo_cont_tiny", 40],
-
 	["BAF_Merlin_HC3_D",75],
 	["Ka60_Base_PMC", 40],
 	["ArmoredSUV_Base_PMC", 12],

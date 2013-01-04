@@ -3,6 +3,7 @@
 //	@file Author: [404] Deadbeat
 //	@file Created: 28/11/2012 05:19
 //	@file Args:
+
 {
     _pos = getMarkerPos (_x select 0);
     _markerName = format["marker%1",_forEachIndex];

@@ -4,7 +4,7 @@
 //	@file Created: 28/11/2012 05:19
 //	@file Args:
 
-_radius = 50;
+_radius = 200;
 _status = [];
 _gunStores = ["gs1"];
 _col_empty = "ColorBlue";
@@ -40,7 +40,7 @@ waitUntil {{!isNull(missionNamespace getVariable _x) && ((getPos(missionNamespac
 	// Gun store description    
     _markerName = format["marker_shop_desc_%1",_x];
     deleteMarkerLocal _markerName;
-    _pos = getPos _unit; _pos set [1, (_pos select 1) - 55];
+    _pos = getPos _unit; _pos set [1, (_pos select 1) - 100];
 	_marker = createMarkerLocal [_markerName, _pos];
 	_markerName setMarkerShapeLocal "ICON";
     _markerName setMarkerTypeLocal "mil_dot";

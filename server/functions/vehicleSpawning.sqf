@@ -9,7 +9,7 @@ _counter = 0;
 
 diag_log format["Vehicle Spawning Started"];
 
-while {_counter < 70} do
+while {_counter < 76} do
 {
     _pos = getMarkerPos format ["Spawn_%1", _counter];
 	_type = 0;

@@ -42,7 +42,7 @@ class Mission
 	randomSeed=15307759;
 	class Intel
 	{
-		briefingName="404Wasteland - Utes [v2.6 Dev3]";
+		briefingName="404Wasteland - Utes [v2.7]";
 		briefingDescription="Wasteland is a harsh survival sandbox";
 		resistanceWest=0;
 		startWeather=0.25;

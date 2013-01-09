@@ -6,7 +6,7 @@
 
 _radius = 200;
 _status = [];
-_gunStores = ["gs1"];
+_gunStores = ["gs1", "gs2", "gs3", "gs4"];
 _col_empty = "ColorBlue";
 _col_enemy = "ColorRed";
 _col_friendly = "ColorGreen";

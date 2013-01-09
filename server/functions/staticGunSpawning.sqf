@@ -4,6 +4,8 @@
 //	@file Created: 20/11/2012 05:19
 //	@file Args:
 
+if(!X_Server) exitWith {};
+
 waitUntil{ammoCrateSpawnComplete};
 
 private ["_counter","_pos","_markerName","_marker","_hint","_newpos","_countActual"];
@@ -26,7 +28,7 @@ while {_counter < 76} do
 	_marker setMarkerColor "ColorRed";
     */
     
-    _counter = _counter + 3;
+    _counter = _counter + 20;
     _countActual = _countActual + 1;
 };
 

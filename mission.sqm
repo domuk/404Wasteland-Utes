@@ -42,7 +42,7 @@ class Mission
 	randomSeed=15307759;
 	class Intel
 	{
-		briefingName="404Wasteland - Utes [v2.7]";
+		briefingName="404Wasteland - Utes [v2.9]";
 		briefingDescription="Wasteland is a harsh survival sandbox";
 		resistanceWest=0;
 		startWeather=0.25;
@@ -1174,7 +1174,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=85;
+		items=105;
 		class Item0
 		{
 			position[]={3210.8767,14.462185,4405.5029};
@@ -1684,6 +1684,146 @@ class Mission
 			position[]={4058.1992,11.085455,4130.1963};
 			name="heliSpawn_2";
 			type="Empty";
+		};
+		class Item85
+		{
+			position[]={3110.2537,39.24268,3849.2009};
+			name="Mission_1";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item86
+		{
+			position[]={3277.4021,37.469257,4210.5122};
+			name="Mission_2";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item87
+		{
+			position[]={3637.0247,45.889301,3975.8286};
+			name="Mission_3";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item88
+		{
+			position[]={4054.052,27.693182,3810.3687};
+			name="Mission_4";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item89
+		{
+			position[]={4013.5313,19,3601.0107};
+			name="Mission_5";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item90
+		{
+			position[]={4069.2473,26.330677,3028.6533};
+			name="Mission_6";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item91
+		{
+			position[]={3530.6577,29.434891,3160.3462};
+			name="Mission_7";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item92
+		{
+			position[]={2970.1191,9.0459194,4320.2563};
+			name="Mission_8";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item93
+		{
+			position[]={2792.8403,26.046995,4018.0381};
+			name="Mission_9";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item94
+		{
+			position[]={3199.8105,16.348127,3660.5811};
+			name="Mission_10";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item95
+		{
+			position[]={3272.085,10.129231,3500.28};
+			name="Mission_11";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item96
+		{
+			position[]={3518.5598,30.469496,3114.8154};
+			name="Mission_12";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item97
+		{
+			position[]={4018.9221,21.073406,2989.7249};
+			name="Mission_13";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item98
+		{
+			position[]={3853.0615,24.591913,3018.4497};
+			name="Mission_14";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item99
+		{
+			position[]={3950.354,19.507143,3474.3352};
+			name="Mission_15";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item100
+		{
+			position[]={4047.6467,20.457266,3689.3057};
+			name="Mission_16";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item101
+		{
+			position[]={4182.9297,19,3619.8105};
+			name="Mission_17";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item102
+		{
+			position[]={3783.5664,53.492996,3901.4966};
+			name="Mission_18";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item103
+		{
+			position[]={3669.5955,30.972187,4232.2915};
+			name="Mission_19";
+			type="Empty";
+			colorName="ColorOrange";
+		};
+		class Item104
+		{
+			position[]={3569.5229,44.100086,4092.3755};
+			name="Mission_20";
+			type="Empty";
+			colorName="ColorOrange";
 		};
 	};
 };

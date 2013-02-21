@@ -9,4 +9,4 @@
 
 
 // uncomment the following #define preprocessor command if you are not using arma2net
-//#define __A2NET__ // Using ARMA 2 NET
+#define __A2NET__ // Using ARMA 2 NET

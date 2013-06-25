@@ -12,7 +12,7 @@ _counter = 0;
 
 _nerfBoxes = ["basicUS","basicUS2","basicRU","basicRU2","basicGER","basicPMC","basicSpecial","basicSpecial2","basicSpecial3"];
 
-for "_i" from 0 to 76 step 15 do
+for "_i" from 0 to 76 step 25 do
 {
 	_pos = getMarkerPos format ["Spawn_%1", _i];
     _currBox = _nerfBoxes select (random (count _nerfBoxes - 1));
